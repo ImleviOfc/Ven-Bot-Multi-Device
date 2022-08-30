@@ -54,9 +54,9 @@ handler.all = async function (m) {
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/bot_whangsaf",
+            mediaUrl: "https://instagram.com/imleviofc",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/bot_whangsaf", 
+            description: "https://instagram.com/imleviofc", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
@@ -65,9 +65,9 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/adison_fahri",
+            mediaUrl: "https://www.facebook.com/erdiansyah.teddy.3",
             mediaType: "VIDEO",
-            description: "https://Facebook.com/adison_fahri", 
+            description: "https://www.facebook.com/erdiansyah.teddy.3", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
