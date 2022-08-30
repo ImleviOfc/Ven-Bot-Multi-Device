@@ -61,9 +61,9 @@ https://github.com/FahriAdison
 *❉ Rlxfly:*
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/bot_whangsaf",
+    mediaUrl: "https://instagram.com/imleviofc",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
+    description: "https://instagram.com/imleviofc", 
     title: 'Simple Bot Esm',
     body: wm,
     thumbnail: thumb,
